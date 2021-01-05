@@ -1,0 +1,7 @@
+main:
+ file_name : 'C:\Users\Tejasvi\Desktop\iisc\Soft computing\Tejasvi_Sharma_Assignment_2\City_Coordinates.txt'
+ crossover : 'PMX'
+ pop_size : 50
+ tsp_len : 100
+ iterations : 100
+ elitism : 1
